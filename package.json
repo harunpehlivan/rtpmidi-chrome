@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browserify": "~3.30.2",
+    "browserify": "~12.0.0",
     "chrome-dgram": "~1.0.7"
   }
 }
